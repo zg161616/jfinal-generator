@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jfinal.version>3.6</jfinal.version>
+        <jfinal.version>4.9.11</jfinal.version>
         <undertow.version>1.5</undertow.version>
     </properties>
     <dependencies>
